@@ -1,5 +1,5 @@
 ## Prototype Development for Image Captioning Using the BLIP Model and Gradio Framework
-
+### DATE: 03/09/2026
 ### AIM:
 To design and deploy a prototype application for image captioning by utilizing the BLIP image-captioning model and integrating it with the Gradio UI framework for user interaction and evaluation.
 
